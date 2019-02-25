@@ -4,7 +4,7 @@
     <title>Branding 101</title>
     <topicref href="topic_placeholder.dita"/>
     <topicref href="topic_branding_gallery.dita"/>
-    <topichead navtitle="Branding Resources (resource-only)">
+    <topichead navtitle="Branding Resources (resource-only)" processing-role="resource-only">
         <topicref href="map-keys_branding_terms.ditamap" format="ditamap"/>
         <topicref href="map-keys_branding_links_web.ditamap" format="ditamap"/>
         <topicref href="map-keys_branding_links.ditamap" format="ditamap"/>
