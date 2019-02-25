@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_xbq_f31_xgb">
+    <title>Placeholder topic</title>
+    <body>
+        <p>This is a placeholder topic. </p>
+        <p>
+            <image placement="break" keyref="k_image_stormsuite_architecture_01"
+                id="image_rnx_gtb_xgb"/>
+        </p>
+    </body>
+</topic>

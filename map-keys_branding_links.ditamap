@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Keymap - Branding - Links to DITA boilerplate topics</title>
+ <topicref keys="k-nav_corporate_copyright" href="topic_placeholder.dita"/>
+ <topicref keys="k-nav_corporate_patents" href="topic_placeholder.dita"/>
+ <topicref keys="k-nav_corporate_revenue-recognition" href="topic_placeholder.dita"/>
+</map>

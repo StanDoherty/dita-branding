@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "http://docs.oasis-open.org/dita/v1.2/OS/dtd/reference.dtd">
+<reference id="library_productname_keys">
+ <title>StormSuite - Branding - Legal Product Names</title>
+ <refbody>
+
+  <section>
+    <title>Product Names</title>
+      <simpletable frame="all" relcolwidth="1.0* 1.08*" id="simpletable_d3y_zd2_xgb">
+        <strow>
+          <stentry>
+            <p>k_term_company: <term id="k_term_company">StormSystems Inc.</term></p>
+            <p>k_term_suite: <term id="k_term_suite">StormSuite</term></p>
+            <p>k_term_cluster: <term id="k_term_cluster">StormCluster</term></p>
+            <p>k_term_cloud: <term id="k_term_cloud">StormCloud</term></p>
+            <p>k_term_stormview: <term id="k_term_stormview">StormView</term></p>
+            <p>k_term_stormcenter-analyzer: <term id="k_term_stormcenter-analyzer"
+                >StormCenter-Analyzer</term></p>
+            <p>k_term_stormcenter-backup: <term id="k_term_stormcenter-backup"
+                >StormCenter-Backup</term></p>
+            <p>k_term_stormcenter-balance: <term id="k_term_stormcenter-balance"
+                >StormCenter-Balance</term></p>
+          </stentry>
+          <stentry>
+            <p>k_term_stormview-console: <term id="k_term_stormview-console"
+                >StormView-Console</term></p>
+            <p>k_term_stormview-mobile: <term id="k_term_stormview-mobile"
+              >StormView-Mobile</term></p>
+            <p>k_term_stormview-restapi: <term id="k_term_stormview-restapi"
+                >StormView-REST-API</term></p>
+            <p>k_term_stormcenter: <term id="k_term_stormcenter">StormCenter</term></p>
+            <p>k_term_stormcenter-report: <term id="k_term_stormcenter-report"
+                >StormCenter-Report</term></p>
+            <p>k_term_stormcenter-secure: <term id="k_term_stormcenter-secure"
+                >StormCenter-Secure</term></p>
+            <p>k_term_stormcenter-store: <term id="k_term_stormcenter-store"
+                >StormCenter-Store</term></p>
+          </stentry>
+        </strow>
+      </simpletable>
+  </section>
+   
+  <section><title>Links to corporate web resources</title>
+  <p><xref keyref="k_link_corporate-homepage"/></p>
+  <p><xref keyref="k_link_regional-sales"/></p>
+  <p><xref keyref="k_link_corp-marketing-programs"/></p>
+  <p><xref keyref="k_link_corp-sales-support"/></p>
+  <p><xref keyref="k_link_corp-customer-support"/></p>
+  </section>
+    <section id="section_zcb_gyd_xgb">
+      <title>Links to corporate boilerplate content</title>
+      <p><xref keyref="k-nav_corporate_copyright"/></p>
+      <p><xref keyref="k-nav_corporate_patents"/></p>
+      <p><xref keyref="k-nav_corporate_revenue-recognition"/></p>
+    </section>
+    <section id="section_t3z_czd_xgb">
+      <title>Links to corporate icons and images</title>
+      <p>k_image_stormsystems_logo_01: <image placement="break" keyref="k_image_stormsystems_logo_01" id="image_2"/></p>
+      <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_xdg_tf2_xgb">
+        <strow>
+          <stentry>
+            <p>k_image_stormsystems_console: <image placement="inline"
+                keyref="k_image_stormsystems_console" id="image_3"/></p>
+            <p>k_image_stormsystems_network: <image placement="inline"
+                keyref="k_image_stormsystems_network" id="image_4"/></p>
+            <p>k_image_stormsystems_on-prem-storage: <image placement="inline"
+                keyref="k_image_stormsystems_on-prem-storage" id="image_5"/></p>
+          </stentry>
+          <stentry>
+            <p>k_image_stormsystems_storage: <image placement="inline"
+                keyref="k_image_stormsystems_storage" id="image_6"/></p>
+            <p>k_image_stormsystems_temp-storage: <image placement="inline"
+                keyref="k_image_stormsystems_temp-storage" id="image_7"/></p>
+            <p>k_image_stormsystems_web: <image placement="inline" keyref="k_image_stormsystems_web"
+                id="image_8"/></p>
+          </stentry>
+        </strow>
+      </simpletable>
+      <p>k_image_stormsuite_architecture_01: <image placement="inline" keyref="k_image_stormsuite_architecture_01" id="image_1"/></p>
+      
+    </section> 
+ </refbody>
+</reference>

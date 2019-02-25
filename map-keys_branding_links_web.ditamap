@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+<title>Keymap - Branding - Links to corporate web resources</title>
+
+  <!-- Corporate Home Page -->
+  <topicref keys="k_link_corporate-homepage" href="http://oasis-open.org" format="html" scope="external">
+    <topicmeta>
+      <linktext>StormSystems Inc.</linktext>
+    </topicmeta>
+  </topicref>
+
+  <!-- Regional Sales Directory -->
+  <topicref keys="k_link_regional-sales" href="http://oasis-open.org" format="html" scope="external">
+    <topicmeta>
+      <linktext>StormSystems Regional Sales</linktext>
+    </topicmeta>
+  </topicref>
+
+  <!-- Corporate Marketing Programs -->
+  <topicref keys="k_link_corp-marketing-programs" href="http://oasis-open.org" format="html" scope="external">
+    <topicmeta>
+      <linktext>StormSystems Marketing Programs</linktext>
+    </topicmeta>
+  </topicref>
+
+<!-- Corporate Sales Support -->
+<topicref keys="k_link_corp-sales-support" href="http://oasis-open.org" format="html" scope="external">
+  <topicmeta>
+    <linktext>StormSystems Sales Support</linktext>
+  </topicmeta>
+</topicref>
+
+<!-- Corporate Customer Support -->
+<topicref keys="k_link_corp-customer-support" href="http://oasis-open.org" format="html" scope="external">
+  <topicmeta>
+    <linktext>StormSystems Customer Support</linktext>
+  </topicmeta>
+</topicref>
+
+</map>

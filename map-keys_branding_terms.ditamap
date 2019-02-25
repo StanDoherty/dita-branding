@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Keymap - Branding - Terms and Names</title>
+	
+    <!-- Company name -->
+    <keydef keys="k_term_company">
+        <topicmeta>
+            <linktext>StormSystems Inc.</linktext>
+        </topicmeta>
+    </keydef>
+
+    <!-- Suite name -->
+    <keydef keys="k_term_suite">
+        <topicmeta>
+            <linktext>StormSuite</linktext>
+        </topicmeta>
+    </keydef>
+	
+    <!-- Cluster name -->
+    <keydef keys="k_term_cluster">
+        <topicmeta>
+            <linktext>StormCluster</linktext>
+        </topicmeta>
+    </keydef>
+
+    <!-- Cloud name -->
+    <keydef keys="k_term_cloud">
+        <topicmeta>
+            <linktext>StormCloud</linktext>
+        </topicmeta>
+    </keydef>
+
+    <!-- StormView name -->
+    <keydef keys="k_term_stormview">
+        <topicmeta>
+            <linktext>StormView</linktext>
+        </topicmeta>
+    </keydef>
+	
+    <!-- Console name -->
+    <keydef keys="k_term_stormview-console">
+        <topicmeta>
+            <linktext>StormView-Console</linktext>
+        </topicmeta>
+    </keydef>
+	
+    <!-- Mobile name -->
+    <keydef keys="k_term_stormview-mobile">
+        <topicmeta>
+            <linktext>StormView-Mobile</linktext>
+        </topicmeta>
+    </keydef>
+	
+    <!-- REST API name -->
+    <keydef keys="k_term_stormview-restapi">
+        <topicmeta>
+            <linktext>StormView-REST-API</linktext>
+        </topicmeta>
+    </keydef>
+
+    <!-- StormCenter name -->
+    <keydef keys="k_term_stormcenter">
+        <topicmeta>
+            <linktext>StormCenter</linktext>
+        </topicmeta>
+    </keydef>
+	
+    <!-- StormCenter Analyzer -->
+    <keydef keys="k_term_stormcenter-analyzer">
+        <topicmeta>
+            <linktext>StormCenter-Analyzer</linktext>
+        </topicmeta>
+    </keydef>
+	
+    <!-- Backup name -->
+    <keydef keys="k_term_stormcenter-backup">
+        <topicmeta>
+            <linktext>StormCenter-Backup</linktext>
+        </topicmeta>
+    </keydef>
+	
+    <!-- Balance name -->
+    <keydef keys="k_term_stormcenter-balance">
+        <topicmeta>
+            <linktext>StormCenter-Balance</linktext>
+        </topicmeta>
+    </keydef>
+	
+    <!-- Report name -->
+    <keydef keys="k_term_stormcenter-report">
+        <topicmeta>
+            <linktext>StormCenter-Report</linktext>
+        </topicmeta>
+    </keydef>
+	
+    <!-- Secure name -->
+    <keydef keys="k_term_stormcenter-secure">
+        <topicmeta>
+            <linktext>StormCenter-Secure</linktext>
+        </topicmeta>
+    </keydef>
+	
+    <!-- Storage name -->
+    <keydef keys="k_term_stormcenter-store">
+        <topicmeta>
+            <linktext>StormCenter-Store</linktext>
+        </topicmeta>
+    </keydef>
+	
+	
+</map>

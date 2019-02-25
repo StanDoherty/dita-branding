@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+<!-- mapsubjectScheme_taxonomy.ditamap -->
+    <subjectHead>
+        <subjectHeadMeta>
+            <navtitle>subjectScheme - Branding - Persona Metadata</navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    <subjectdef keys="subject_admin">
+       <subjectdef keys="admin-new"/>
+       <subjectdef keys="admin-architect"/>
+       <subjectdef keys="admin-storage">
+            <subjectdef keys="admin-storage-files-system"/>
+            <subjectdef keys="admin-storage-database"/>
+            <subjectdef keys="admin-storage-objectstore"/>
+       </subjectdef>
+    </subjectdef>
+</subjectScheme>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+    <subjectHead>
+        <subjectHeadMeta>
+            <navtitle>
+              subjectScheme - Branding - Controlled Metadata Values
+            </navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+	<enumerationdef>
+      <attributedef name="audience"/>
+      <subjectdef keyref="subject_admin"/>
+  </enumerationdef>
+</subjectScheme>

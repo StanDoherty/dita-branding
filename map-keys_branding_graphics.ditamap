@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Keymap - Branding - Graphics</title>
+ <topicref keys="k_image_stormsystems_logo_01" href="graphics/stormsystems_logo_01.png " format="png">
+   <topicmeta><navtitle>Logo</navtitle><linktext>Logo</linktext></topicmeta></topicref>
+ <topicref keys="k_image_stormsystems_network" href="graphics/stormsystems_network.png " format="png">
+   <topicmeta><navtitle>Network</navtitle><linktext>Network</linktext></topicmeta></topicref>
+ <topicref keys="k_image_stormsuite_architecture_01" href="graphics/stormsuite_architecture_01.png" 
+   format="png">
+   <topicmeta><navtitle>Architecture</navtitle><linktext>Architecture</linktext></topicmeta></topicref>
+ <topicref keys="k_image_stormsystems_console" href="graphics/stormsystems_console.png" format="png">
+      <topicmeta><navtitle>Console</navtitle><linktext>Console</linktext></topicmeta></topicref>
+ <topicref keys="k_image_stormsystems_logo_01" href="graphics/stormsystems_logo_01.png " format="png">
+   <topicmeta><navtitle>Logo</navtitle><linktext>Logo</linktext></topicmeta></topicref>
+ <topicref keys="k_image_stormsystems_network" href="graphics/stormsystems_network.png " format="png">
+   <topicmeta><navtitle>Network</navtitle><linktext>Network</linktext></topicmeta></topicref>
+<topicref keys="k_image_stormsystems_on-prem-storage" href="graphics/stormsystems_on-prem-storage.png" format="png">
+   <topicmeta><navtitle>On Prem Storage</navtitle><linktext>On Prem Storage</linktext></topicmeta></topicref>
+<topicref keys="k_image_stormsystems_storage" href="graphics/stormsystems_storage.png" format="png">
+   <topicmeta><navtitle>Cloud Storage</navtitle><linktext>Cloud Storage</linktext></topicmeta></topicref>
+<topicref keys="k_image_stormsystems_temp-storage" href="graphics/stormsystems_temp-storage.png" format="png">
+   <topicmeta><navtitle>Temporary Storage</navtitle><linktext>Temporary Storage</linktext></topicmeta></topicref>
+<topicref keys="k_image_stormsystems_web" href="graphics/stormsystems_web.png" format="png">
+   <topicmeta><navtitle>Web Interface</navtitle><linktext>Web Interface</linktext></topicmeta>
+</topicref>
+</map>
